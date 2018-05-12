@@ -1,0 +1,26 @@
+_repo: Lay-Help-the-Church-s-Present-NeedA-Paper-read-at-St.-Mary-s-Schools-West-Brompton_43464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baird, William
+    gutenberg_agent_id: '42226'
+    url: http://www.gutenberg.org/2009/agents/42226
+description: ''
+gutenberg_issued: '2013-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Laity -- Church of England'
+title: 'Lay Help the Church''s Present Need
+
+  A Paper read at St. Mary''s Schools, West Brompton'
+url: http://www.gutenberg.org/ebooks/43464
