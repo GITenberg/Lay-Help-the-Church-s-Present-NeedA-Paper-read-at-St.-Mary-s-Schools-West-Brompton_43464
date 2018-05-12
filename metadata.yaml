@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42226'
     url: http://www.gutenberg.org/2009/agents/42226
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43464#Lay-Help-the-Church-s-Present-NeedA-Paper-read-at-St.-Mary-s-Schools-West-Brompton
 gutenberg_issued: '2013-08-14'
 gutenberg_type: Text
 identifiers:
